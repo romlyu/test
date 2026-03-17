@@ -1,1 +1,1 @@
-a + b = notclassmethodyy
+vooo - tiiiiii - vooo
