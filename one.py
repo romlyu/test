@@ -1,1 +1,1 @@
-a + b = classmethod
+a + b = notclassmethod 
